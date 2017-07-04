@@ -1,0 +1,7 @@
+<header>
+    <nav>
+        <svg id="elastic-menu" viewBox="0 0 100 500" preserveAspectRatio="none">
+            <path class="menu" d="M0,0 L0,60 a50,0 0,0 0 100,0 L100,0"></path>
+        </svg>
+    </nav>
+</header>
